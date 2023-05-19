@@ -7,4 +7,4 @@ terraform {
   }
 }
 
-resource "random-pet" "vpc" {}
+resource "random_pet" "vpc" {}
